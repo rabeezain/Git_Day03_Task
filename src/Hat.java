@@ -5,4 +5,6 @@ public class Hat {
     // the color of the hat is blue
 
     // the hat protected our head from the sun
+
+    // my hat needs a new clip
 }
